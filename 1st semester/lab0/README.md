@@ -1,3 +1,4 @@
+# "The ugliest code I've ever written" Mikhail.
 # Вход
 ### строка 1
 	целые числа b1 и b2 от 2 до 16 -- основание исходной и конечной с.с.
